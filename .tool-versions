@@ -1,0 +1,6 @@
+direnv 2.32.2
+nodejs 22.14.0
+adr-tools 3.0.0
+jq 1.6
+golang 1.20.3
+python 3.11.4
